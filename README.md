@@ -7,7 +7,7 @@
 ### Install from GitHub Releases (recommended)
 
 1. Go to your project releases page:
-   - `https://github.com/<your-user>/<your-repo>/releases`
+   - `https://github.com/JanarthananSMJ/tudu/releases`
 2. Download the archive for your OS:
    - Linux: `tudu_<version>_linux_amd64.tar.gz` (or `linux_arm64`)
    - macOS: `tudu_<version>_darwin_amd64.tar.gz` (or `darwin_arm64`)
@@ -81,8 +81,8 @@
 1. Install Go (1.22+ recommended).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<your-user>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/JanarthananSMJ/tudu.git
+   cd tudu
    ```
 3. Install binary:
    ```bash
